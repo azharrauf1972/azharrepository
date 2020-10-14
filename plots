@@ -1,0 +1,2 @@
+# Core Graphics
+plot(Petal.Width~Petal.Length, data=iris, ylab="Petal Width", xlab="Petal Length")
